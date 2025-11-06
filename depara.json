@@ -1,0 +1,11 @@
+{
+  "startswith": [
+    {
+      "pattern": "Pagto do quarto",
+      "conta_contabil": "1.01 - Hospedagem",
+      "disponibilidade": "3.1 - HOTEL (CENTRO DE CUSTO)"
+    }
+  ],
+  "contains": [],
+  "regex": []
+}
